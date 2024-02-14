@@ -1,8 +1,5 @@
 pescado
 doradas 1
 jgvhjgv
-<<<<<<< Updated upstream
-szdfghsf
-=======
 sdfk,hjgbksdfn
->>>>>>> Stashed changes
+conflicto 1
